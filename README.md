@@ -49,7 +49,6 @@ Feel free to reach out if you'd like to collaborate on projects, discuss tech, o
 </div>
 
 </br>
-</br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deshkaustubh&show_icons=true&locale=en" alt="GitHub Stats" style="display: inline-block; margin: 10px;" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshkaustubh&" alt="GitHub Streak Stats" style="display: inline-block; margin: 10px;" />
