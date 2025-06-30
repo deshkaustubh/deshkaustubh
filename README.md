@@ -68,7 +68,7 @@ I believe in writing clean, maintainable code and creating experiences that *fee
 ---
 
 <p align="center">
-  <a href="https://kaustubhdeshpande.netlify.app" target="_blank">
+  <a href="https://kaustubhdeshpande.tech/" target="_blank">
     <img src="https://img.shields.io/badge/🌙-Activate_Dark_Mode-grey?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Clicks-3,591+and+rising-brightgreen?style=for-the-badge" />
