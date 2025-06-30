@@ -96,7 +96,7 @@ I believe in writing clean, maintainable code and creating experiences that *fee
   <br>
 
   <p align="left">
-    <a href="https://kaustubhdeshpande.netlify.app" target="_blank">
+    <a href="https://kaustubhdeshpande.tech/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
     <a href="https://x.com/desh_kaustubh" target="_blank">
