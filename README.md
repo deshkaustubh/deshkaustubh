@@ -11,9 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Third-Year engineering student specializing in Android development that’s efficient, thoughtful, and crafted with intention. My mission? Bridging aesthetic UI with rock-solid architecture.
-
-I believe in writing clean, maintainable code and creating experiences that *feel* good to use. Whether it’s scaling an app from scratch, mapping out intuitive user journeys, or experimenting with fresh design patterns—I'm all in.
+I'm specializing in Android development that’s efficient, thoughtful, and crafted with intention. My mission? Bridging aesthetic UI with rock-solid architecture. I believe in writing clean, maintainable code and creating experiences that feel good to use. Whether it’s scaling an app from scratch, mapping out intuitive user journeys, or experimenting with fresh design patterns—I'm all in.
 
 ---
 
